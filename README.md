@@ -19,4 +19,4 @@
   <a href = "mailto:alanmoraes1003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alan-moraes08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/ArM-08/ArM-08/blob/e458be1ffb5afd49d03811680f5ac18bde04267f/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ArM-08/ArM-08/blob/36553f2d869f55a684c6d329ff5e9a9cfafdc04a/github-contribution-grid-snake.svg)
