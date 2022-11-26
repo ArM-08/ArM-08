@@ -1,22 +1,52 @@
-## Bem-vindo(a) ao perfil do Alan Moraes
+<h2 img align="center">Full Stack Developer</h2>
 
- <div>
-   <a href="https://github.com/ArM-08">
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ArM-08&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-   <img height="203em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArM-08&layout=compact&langs_count=6&theme=chartreuse-dark"/>
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
+
+
+<div align="center">
+  <a href="https://github.com/ArM-08">
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ArM-08&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+   <img height="173em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArM-08&layout=compact&langs_count=6&theme=chartreuse-dark"/>
 
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
 
-<div> 
-  <a href="https://www.instagram.com/arm08__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alanmoraesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alan-moraes08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
+
+<div align="center" style="display: inline_block"><br>
+  
+  <img width="40" higth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+  <img width="40" higth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+  <img width="40" higth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+  <img width="40" higth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+  <img width="40" higth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          
+  <br>
+  <img width="40" higth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+          
+  
+          
+</div>
+
+
+<br>
+
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
+
+<div align="center"> 
+  
+ <a href="https://www.instagram.com/arm08__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <br>
+   <a href="https://www.linkedin.com/in/alan-moraes08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
+
+##### Profile visits
+<p align="center"> 
+   <img height="25px" alingn="center" src="https://profile-counter.glitch.me/ArM-08/count.svg" />
+ </p>
+
+
 
